@@ -1,0 +1,8 @@
+#include <stdio.h>//计算两个数的加法
+int main()
+{
+    int a,b;
+    scanf("%d %d",&a,&b);
+    printf("%d+%d=%d",a,b,a+b);
+    return 0;
+}
